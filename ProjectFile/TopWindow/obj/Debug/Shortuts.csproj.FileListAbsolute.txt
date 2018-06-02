@@ -1,0 +1,16 @@
+c:\users\xstx\documents\visual studio 2015\Projects\Shortuts\Shortuts\bin\Debug\Shortuts.exe
+c:\users\xstx\documents\visual studio 2015\Projects\Shortuts\Shortuts\bin\Debug\Shortuts.pdb
+c:\users\xstx\documents\visual studio 2015\Projects\Shortuts\Shortuts\obj\Debug\Shortuts.csprojResolveAssemblyReference.cache
+c:\users\xstx\documents\visual studio 2015\Projects\Shortuts\Shortuts\obj\Debug\Shortuts.Form1.resources
+c:\users\xstx\documents\visual studio 2015\Projects\Shortuts\Shortuts\obj\Debug\Shortuts.Properties.Resources.resources
+c:\users\xstx\documents\visual studio 2015\Projects\Shortuts\Shortuts\obj\Debug\Shortuts.csproj.GenerateResource.Cache
+c:\users\xstx\documents\visual studio 2015\Projects\Shortuts\Shortuts\obj\Debug\Shortuts.exe
+c:\users\xstx\documents\visual studio 2015\Projects\Shortuts\Shortuts\obj\Debug\Shortuts.pdb
+C:\Users\MACL709\Desktop\Shortuts\Shortuts\bin\Debug\FrontWindow.exe
+C:\Users\MACL709\Desktop\Shortuts\Shortuts\bin\Debug\FrontWindow.pdb
+C:\Users\MACL709\Desktop\Shortuts\Shortuts\obj\Debug\FrontWindow.Properties.Resources.resources
+C:\Users\MACL709\Desktop\Shortuts\Shortuts\obj\Debug\Shortuts.csproj.GenerateResource.Cache
+C:\Users\MACL709\Desktop\Shortuts\Shortuts\obj\Debug\FrontWindow.exe
+C:\Users\MACL709\Desktop\Shortuts\Shortuts\obj\Debug\FrontWindow.pdb
+C:\Users\MACL709\Desktop\Shortuts\Shortuts\bin\Debug\FrontWindow.exe.config
+C:\Users\MACL709\Desktop\Shortuts\Shortuts\obj\Debug\Shortuts.FrontWindow.resources

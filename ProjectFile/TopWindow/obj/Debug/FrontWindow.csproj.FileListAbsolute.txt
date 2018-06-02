@@ -1,0 +1,17 @@
+C:\Users\MACL709\Desktop\Shortuts\Front_Window\bin\Debug\FrontWindow.exe.config
+C:\Users\MACL709\Desktop\Shortuts\Front_Window\bin\Debug\FrontWindow.exe
+C:\Users\MACL709\Desktop\Shortuts\Front_Window\bin\Debug\FrontWindow.pdb
+C:\Users\MACL709\Desktop\Shortuts\Front_Window\obj\Debug\Shortuts.FrontWindow.resources
+C:\Users\MACL709\Desktop\Shortuts\Front_Window\obj\Debug\FrontWindow.Properties.Resources.resources
+C:\Users\MACL709\Desktop\Shortuts\Front_Window\obj\Debug\FrontWindow.csproj.GenerateResource.Cache
+C:\Users\MACL709\Desktop\Shortuts\Front_Window\obj\Debug\FrontWindow.exe
+C:\Users\MACL709\Desktop\Shortuts\Front_Window\obj\Debug\FrontWindow.pdb
+C:\Users\MACL709\Desktop\Shortuts\FrontWindow\bin\Debug\FrontWindow.exe.config
+C:\Users\MACL709\Desktop\Shortuts\FrontWindow\bin\Debug\FrontWindow.exe
+C:\Users\MACL709\Desktop\Shortuts\FrontWindow\bin\Debug\FrontWindow.pdb
+C:\Users\MACL709\Desktop\Shortuts\FrontWindow\obj\Debug\FrontWindow.csprojResolveAssemblyReference.cache
+C:\Users\MACL709\Desktop\Shortuts\FrontWindow\obj\Debug\Shortuts.FrontWindow.resources
+C:\Users\MACL709\Desktop\Shortuts\FrontWindow\obj\Debug\FrontWindow.Properties.Resources.resources
+C:\Users\MACL709\Desktop\Shortuts\FrontWindow\obj\Debug\FrontWindow.csproj.GenerateResource.Cache
+C:\Users\MACL709\Desktop\Shortuts\FrontWindow\obj\Debug\FrontWindow.exe
+C:\Users\MACL709\Desktop\Shortuts\FrontWindow\obj\Debug\FrontWindow.pdb

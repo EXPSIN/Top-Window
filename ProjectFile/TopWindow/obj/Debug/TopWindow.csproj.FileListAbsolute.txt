@@ -1,0 +1,9 @@
+C:\Users\MACL709\Desktop\FrontWindow\TopWindows\bin\Debug\TopWindow.exe.config
+C:\Users\MACL709\Desktop\FrontWindow\TopWindows\bin\Debug\TopWindow.exe
+C:\Users\MACL709\Desktop\FrontWindow\TopWindows\bin\Debug\TopWindow.pdb
+C:\Users\MACL709\Desktop\FrontWindow\TopWindows\obj\Debug\TopWindow.csprojResolveAssemblyReference.cache
+C:\Users\MACL709\Desktop\FrontWindow\TopWindows\obj\Debug\Shortuts.FrontWindow.resources
+C:\Users\MACL709\Desktop\FrontWindow\TopWindows\obj\Debug\TopWindow.Properties.Resources.resources
+C:\Users\MACL709\Desktop\FrontWindow\TopWindows\obj\Debug\TopWindow.csproj.GenerateResource.Cache
+C:\Users\MACL709\Desktop\FrontWindow\TopWindows\obj\Debug\TopWindow.exe
+C:\Users\MACL709\Desktop\FrontWindow\TopWindows\obj\Debug\TopWindow.pdb
